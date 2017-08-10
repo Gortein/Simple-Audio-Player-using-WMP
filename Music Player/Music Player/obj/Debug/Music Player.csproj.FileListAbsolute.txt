@@ -1,0 +1,14 @@
+c:\users\quinn\documents\visual studio 2017\Projects\Music Player\Music Player\bin\Debug\Music Player.exe.config
+c:\users\quinn\documents\visual studio 2017\Projects\Music Player\Music Player\bin\Debug\Music Player.exe
+c:\users\quinn\documents\visual studio 2017\Projects\Music Player\Music Player\bin\Debug\Music Player.pdb
+c:\users\quinn\documents\visual studio 2017\Projects\Music Player\Music Player\obj\Debug\Music Player.csprojResolveAssemblyReference.cache
+c:\users\quinn\documents\visual studio 2017\Projects\Music Player\Music Player\obj\Debug\Music_Player.Form1.resources
+c:\users\quinn\documents\visual studio 2017\Projects\Music Player\Music Player\obj\Debug\Music_Player.Properties.Resources.resources
+c:\users\quinn\documents\visual studio 2017\Projects\Music Player\Music Player\obj\Debug\Music Player.csproj.GenerateResource.Cache
+c:\users\quinn\documents\visual studio 2017\Projects\Music Player\Music Player\obj\Debug\Music Player.exe
+c:\users\quinn\documents\visual studio 2017\Projects\Music Player\Music Player\obj\Debug\Music Player.pdb
+c:\users\quinn\documents\visual studio 2017\Projects\Music Player\Music Player\bin\Debug\Interop.WMPLib.dll
+c:\users\quinn\documents\visual studio 2017\Projects\Music Player\Music Player\bin\Debug\AxInterop.WMPLib.dll
+c:\users\quinn\documents\visual studio 2017\Projects\Music Player\Music Player\obj\Debug\Interop.WMPLib.dll
+c:\users\quinn\documents\visual studio 2017\Projects\Music Player\Music Player\obj\Debug\AxInterop.WMPLib.dll
+c:\users\quinn\documents\visual studio 2017\Projects\Music Player\Music Player\obj\Debug\Music Player.csproj.ResolveComReference.cache
